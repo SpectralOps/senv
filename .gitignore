@@ -1,0 +1,5 @@
+autobrew
+vendor/
+dist/
+senv
+.vscode/
