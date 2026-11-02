@@ -1,6 +1,6 @@
 ![](media/cover.png)
 
-# senv - safer `env`
+#   senv - safer `env`
 ![ci](https://github.com/spectralops/senv/actions/workflows/ci.yml/badge.svg)
 
 
